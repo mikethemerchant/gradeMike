@@ -1,0 +1,11 @@
+C:\Users\mbender\source\repos\GradeMike\bin\Debug\netcoreapp2.1\GradeMike.deps.json
+C:\Users\mbender\source\repos\GradeMike\bin\Debug\netcoreapp2.1\GradeMike.runtimeconfig.json
+C:\Users\mbender\source\repos\GradeMike\bin\Debug\netcoreapp2.1\GradeMike.runtimeconfig.dev.json
+C:\Users\mbender\source\repos\GradeMike\bin\Debug\netcoreapp2.1\GradeMike.dll
+C:\Users\mbender\source\repos\GradeMike\bin\Debug\netcoreapp2.1\GradeMike.pdb
+C:\Users\mbender\source\repos\GradeMike\obj\Debug\netcoreapp2.1\GradeMike.csprojAssemblyReference.cache
+C:\Users\mbender\source\repos\GradeMike\obj\Debug\netcoreapp2.1\GradeMike.csproj.CoreCompileInputs.cache
+C:\Users\mbender\source\repos\GradeMike\obj\Debug\netcoreapp2.1\GradeMike.AssemblyInfoInputs.cache
+C:\Users\mbender\source\repos\GradeMike\obj\Debug\netcoreapp2.1\GradeMike.AssemblyInfo.cs
+C:\Users\mbender\source\repos\GradeMike\obj\Debug\netcoreapp2.1\GradeMike.dll
+C:\Users\mbender\source\repos\GradeMike\obj\Debug\netcoreapp2.1\GradeMike.pdb
